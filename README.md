@@ -36,6 +36,3 @@ WITH SERDEPROPERTIES (
 )
 LOCATION 's3://SEU-BUCKET/credito/'
 TBLPROPERTIES ('has_encrypted_data'='false');
-
-
-<img width="1107" height="343" alt="image" src="https://github.com/user-attachments/assets/bfb109ea-5309-47a7-86d9-14993534a737" />
