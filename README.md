@@ -36,6 +36,3 @@ WITH SERDEPROPERTIES (
 )
 LOCATION 's3://SEU-BUCKET/credito/'
 TBLPROPERTIES ('has_encrypted_data'='false');
-
-SELECT * FROM credito LIMIT 10;
-
