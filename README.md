@@ -36,5 +36,3 @@ WITH SERDEPROPERTIES (
 )
 LOCATION 's3://SEU-BUCKET/credito/'
 TBLPROPERTIES ('has_encrypted_data'='false');
-
-![Queries de Análise](https://i.imgur.com/Vi76VF2.png)
